@@ -1,0 +1,10 @@
+my_string ="python script"
+print(my_string.capitalize())
+print(my_string.upper())
+print(my_string.lower())
+print(my_string.split())
+print(my_string.swapcase())
+print(my_string.title())
+print(my_string.rsplit())
+print(my_string.lstrip())
+print(my_string.rstrip())
