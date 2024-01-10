@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # num01 = 0
 # while num01 < 8:
 #     num01 = num01 + 1 
@@ -22,3 +23,9 @@ for each in [ 3, 4, 56, 7 ,8]:
     print(each)
     if each == 56: # adding condition to break the loop. 
         break
+=======
+num01 = 0
+while num01 < 8:
+    num01 = num01 + 1 
+    print(num01)
+>>>>>>> 22235be89735631eb427e600349f73e3bb2c930b
