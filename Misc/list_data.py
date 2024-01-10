@@ -1,4 +1,4 @@
-'''
+
 my_list=[]
 my_list1=[3,4,5,'python', 'devops',5.6]
 print(f"{bool(my_list)}, { bool(my_list1)}") # boolean value if list is empty its False
@@ -6,10 +6,10 @@ print(my_list1, type(my_list1))
 
 print(my_list1[3])
 print(my_list1[-1])
-print(my_list1[3][1])
+print(my_list1[3][1:])
 my_list1[0]=45
 print(my_list1)
-'''
+
 my_list2=[3,5,2,7,3,8,9,5]
 print(my_list2.index(5))
 print(my_list2.count(10))
